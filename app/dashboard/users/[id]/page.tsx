@@ -1,4 +1,4 @@
-// import { useRouter } from "next/router";
+
 import React from "react";
 
 // But which user's detail has to render ?

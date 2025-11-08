@@ -27,6 +27,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        {/* Whatever you write will add in whole app 
+         Good for writing Navbar and footer here */}
         {children}
       </body>
     </html>
